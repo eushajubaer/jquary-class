@@ -1,0 +1,67 @@
+/* All common CSS Start */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+/* a,a:hover{ 
+    text-decoration: none;
+    display: inline-block;
+}
+ul,ol{
+    list-style: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+    line-height: 8.0;
+ } */
+/* All common CSS  End*/
+
+#jquary{
+   width: 100%;
+    height: 300px;
+    padding-top: 20px;
+    background: aliceblue;
+}
+.box_one{
+   
+    height: 150px;
+    width: 500px;
+    background: chartreuse;
+    margin-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#jquary_tow{
+    width: 100%;
+    height: 300px;
+    padding-top: 20px;
+    background: aliceblue;
+}
+.box_tow{
+    height: 150px;
+    width: 500px;
+    background: chartreuse;
+    margin-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#jquary_three{
+    width: 100%;
+    height: 300px;
+    padding-top: 20px;
+    background: aliceblue;
+}
+.box_three{
+    height: 150px;
+    width: 500px;
+    background: chartreuse;
+    margin-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
